@@ -1,0 +1,42 @@
+<html>
+<header><title> About Me </title>
+<style>
+body {
+  background-image: url('background.png');
+}
+div.picture1 {
+   width:384px;
+   height:512px;
+   background-image:url('pic.png');
+   margin:0;
+   padding:0;
+}
+</style>
+</header>
+<body>
+<center>
+  <h1 style= "color:white; font-family: georgia">My name is Anthony Seth Amahan</h1>
+  <p style= "color:white; font-family: helvetica"><b> Born on July 22, 2009 - age 14 as of making this.</p>
+  <p style= "color:white; font-family: helvetica">Want to learn more?</p></b>
+<div style="position: relative;background-color: white; width: 600px; height: 800px; padding: 15px">
+<div id="MyDiv" class="MyClass" style="color:blue; font-family: Arial; font-size: 24"><b><i> Navigation </b></i></div>
+<br><div class="nav"> 
+	 <ul style="list-style-type:disc font-family: Arial">
+	 <li><a href="Seth.html"> About Me!</a></li>
+	 <li><a href="Who am I.html">Who am I?</a></li>
+	 <li><a href="hobbies.html">What do I like?</a></li>
+	 <li><a href="school.html">Where do I study?</a></li>
+	  <li><a href="family.html">Who is my Family?</a></li>
+	 </ul>
+</div>  
+<br><br>
+<div class="picture1">&nbsp;</div>
+<br> A photo of me from this year at Mirror of the World in Sikatuna, Bohol! <br>
+    <div style="position: absolute; bottom: 5px">
+    by: Anthony Seth H. Amahan
+    </div>
+</div>
+</center>
+</body>
+</style>
+</html>
